@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Priyanka Dandapat</h1>
 <h3 align="center">Software Developer | Full-Stack Engineer | Backend & Cloud Enthusiast</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=priyankadandapat" alt="priyankadandapat" /></a> </p>
-
 - 🔭 I’m currently working on **building scalable RESTful APIs, microservices using .NET/C# and reusable ReactJS applications.**
 
 - 👯 I’m looking to collaborate on **backend or full-stack projects involving REST APIs and microservices.**
